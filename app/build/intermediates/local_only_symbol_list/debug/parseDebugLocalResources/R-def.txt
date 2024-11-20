@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baseline_delete_24
+drawable baseline_edit_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_add
+id btn_add_new
+id btn_cancel
+id btn_save
+id edit_student_id
+id edit_student_name
+id image_edit
+id image_remove
+id main
+id recycler_view_students
+id text_student_id
+id text_student_name
+layout activity_main
+layout dialog_add_student
+layout dialog_edit_student
+layout layout_student_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.StudentMan
+style Theme.StudentMan
+xml backup_rules
+xml data_extraction_rules
